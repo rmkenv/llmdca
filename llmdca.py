@@ -18,6 +18,8 @@ st.sidebar.markdown("""
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
 For more information:
+- [Gemini API Documentation](https://ai.google.dev/)
+""")
 
 # Main content
 st.title("Document Compliance Analyzer")
